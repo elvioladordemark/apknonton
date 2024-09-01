@@ -38,9 +38,9 @@
           "user_agent": "VLCPlayer (Android 12)"
         },
         {
-          "name": "Channel /w Referer",
-          "stream_url": "https://.../referer.m3u8",
-          "referer": "https://..."
+          "name": "SPORTV",
+          "stream_url": "https://sportscdn.net/hls/sportv.m3u8",
+          "referer": "https://vivolixopano.com/"
         },
         {
           "name": "Channel /w UA+Referer",
