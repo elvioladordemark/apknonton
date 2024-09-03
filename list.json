@@ -23,6 +23,11 @@
           "stream_url": "http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd"
         },
         {
+          "name": "TELEFUTURO",
+          "drm_id": "2316894912",
+          "stream_url": "http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc_2A/TELEFUTURO_C4.mpd"
+        },
+        {
           "name": "Channel PlayReady",
           "drm_id": "drm_pr",
           "stream_url": "https://.../playready.mpd"
