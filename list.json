@@ -19,7 +19,7 @@
         },
         {
           "name": "Channel Widevine 3",
-          
+          "drm_id": "drm_wv",
           "drm_key": "https://mrpw.pt.verspective.net:443?deviceId=M2Y0NjAyNDgtNTBiOS0zNWQwLTkzMjMtMTllNGRmYmNjMmE5"
           "stream_url": "https://cdn-cirion01.sensa.com.ar/live/eds/HBO/live_dash_cld/HBO.mpd"
         },
